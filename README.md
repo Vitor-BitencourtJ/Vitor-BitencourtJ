@@ -37,7 +37,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Vitor-BitencourtJ&background=0D0221&ring=FF2A6D&fire=05D9E8&currStreakLabel=05D9E8&currStreakNum=D1F7FF&sideNums=D1F7FF&sideLabels=FF2A6D&dates=7A5C9E&stroke=FF2A6D&border=FF2A6D&locale=pt_BR" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-BitencourtJ&bg_color=0d0221&color=d1f7ff&line=ff2a6d&point=05d9e8&area=true&area_color=ff2a6d&hide_border=true&custom_title=uplink%20activity" alt="Activity Graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-BitencourtJ&theme=radical" alt="Activity Graph" />
 
 </div>
 
