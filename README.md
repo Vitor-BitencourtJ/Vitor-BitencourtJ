@@ -32,22 +32,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vitor-BitencourtJ&show_icons=true&hide_border=false&bg_color=0D0221&title_color=FF2A6D&text_color=D1F7FF&icon_color=05D9E8&border_color=FF2A6D&locale=pt-br" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-BitencourtJ&layout=compact&langs_count=6&bg_color=0D0221&title_color=05D9E8&text_color=D1F7FF&border_color=05D9E8&locale=pt-br" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Vitor-BitencourtJ&background=0D0221&ring=FF2A6D&fire=05D9E8&currStreakLabel=05D9E8&currStreakNum=D1F7FF&sideNums=D1F7FF&sideLabels=FF2A6D&dates=7A5C9E&stroke=FF2A6D&border=FF2A6D&locale=pt_BR" alt="GitHub Streak" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-BitencourtJ&theme=radical" alt="Activity Graph" />
-
-</div>
-
----
-
-<h3 align="center"><code>❯ ./snake --eat contributions</code></h3>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vitor-BitencourtJ/Vitor-BitencourtJ/output/github-snake-cyberpunk.svg" alt="Cobrinha comendo as contribuições" />
 
 </div>
 
