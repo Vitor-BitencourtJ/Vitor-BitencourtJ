@@ -32,8 +32,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-BitencourtJ&layout=compact&langs_count=6&bg_color=0D0221&title_color=05D9E8&text_color=D1F7FF&border_color=05D9E8&locale=pt-br" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=Vitor-BitencourtJ&background=0D0221&ring=FF2A6D&fire=05D9E8&currStreakLabel=05D9E8&currStreakNum=D1F7FF&sideNums=D1F7FF&sideLabels=FF2A6D&dates=7A5C9E&stroke=FF2A6D&border=FF2A6D&locale=pt_BR" alt="GitHub Streak" />
 
 </div>
